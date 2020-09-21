@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**geun9716/geun9716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there I'm Roothyo 👋
 
 - 🔭 I’m currently working on ...
   UNY-ICT Team Internship
@@ -43,7 +38,10 @@ Here are some ideas to get you started:
   Back-end(Full-Stack) Programmer & Project Manager
   System Programming
   AI & BigData expert
-  
+<!--
+**geun9716/geun9716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
