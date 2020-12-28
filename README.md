@@ -22,7 +22,7 @@
 
 
 2016.09~2016.12 ) <a href="https://geun9716.github.io/about/AbsoluteTable.html">자동으로 수평을 맞춰주는 테이블</a> (ABSOLUTE TABLE)
-- 학과내에서 최우수상을 수상
+- 수상내역 : 학과내에서 최우수상을 수상
 - 제10-1933787호 "테이블 및 그의 자동 수평 조정방법" 특허를 내었음.
 
 2017.09~2017.12) <a href="https://geun9716.github.io/about/Ictus.html">영어단어학습 게임</a> (ICTUS)
