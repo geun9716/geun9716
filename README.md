@@ -49,6 +49,12 @@
 
 2020.10~2021.06) <a href="https://geun9716.github.io/about/KNC.html">뉴스 빅데이터 타임라인 서비스</a> (KoreanNewsChronicle)
 - [소스코드](https://github.com/geun9716/KoreanNewsChronicle)
+
+
+블로그
+***
+Tistory Blog : roothyo.tistory.com
+github Page : geun9716.github.io
 <!--
 **geun9716/geun9716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
