@@ -53,8 +53,8 @@
 
 블로그
 ***
-Tistory Blog : roothyo.tistory.com
-github Page : geun9716.github.io
+Tistory Blog : [roothyo.tistory.com] </br> 
+github Page : [geun9716.github.io]
 <!--
 **geun9716/geun9716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
