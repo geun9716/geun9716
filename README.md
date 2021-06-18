@@ -45,10 +45,16 @@
 2020.07~2020.11) <a href="https://geun9716.github.io/about/Altruists.html">이타주의자들 리뉴얼 앱</a> (Altruists App)
 
 2020.09~2021.06) 스파르탄SW 복수/융합전공 튜터링
-- React.js, Node.js Express, MariaDB 외 웹 서비스의 대한 지식 공유
+- React.js, Node.js Express, MariaDB 외 웹 서비스에 대해 후배들에게 멘토링을 진행.
 
 2020.10~2021.06) <a href="https://geun9716.github.io/about/KNC.html">뉴스 빅데이터 타임라인 서비스</a> (KoreanNewsChronicle)
-- [소스코드](https://github.com/geun9716/KoreanNewsChronicle)
+- [사건탐지 소스코드](https://github.com/geun9716/KoreanNewsChronicle)
+- [서비스 소스코드](https://github.com/SSU-SOFT/In-Times)
+
+
+2021.02.04~2021.02.06) <a href="https://www.notion.so/ARTravel-GPS-AR-SNS-b7eca04e18d14b1b9c7d5cbbf1c47f74">SW중심대학 해커톤 </a> (ARTravel)
+- React Native, Node.js Express를 기반으로 만든 AR SNS
+- [소스코드](https://github.com/geun9716/ARTravel)
 
 
 블로그
