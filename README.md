@@ -13,7 +13,8 @@
 -->
 ## 제가 가진 기술은요
 ***
-- C, Java, Node.js, React Native, Python 
+- 언어 : C, Java, Python
+- 기술 : Node.js, React Native 
 - MySQL, MariaDB
 - Alcatel등의 네트워크 장비 수리 및 관리
 
