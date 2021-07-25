@@ -11,9 +11,9 @@
 ***
 기획, 설계, 서버, 프로젝트 매니지먼트 입니다.
 -->
-## 제가 가진 기술은요
+## 제가 가진 기술은요 
 ***
-- 언어 : C, Java, Python, JavaScript
+- 언어 : C, Java, Python, JavaScript, TypeScript(ing...)
 - 기술 : Node.js, React Native 
 - MySQL, MariaDB등 RDBMS 경험
 - AWS 서버 배포 경험
