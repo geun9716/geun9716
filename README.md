@@ -52,7 +52,7 @@
 2020.10~2021.06) <a href="https://geun9716.github.io/about/KNC.html">뉴스 빅데이터 타임라인 서비스</a> (KoreanNewsChronicle)
 - [사건탐지 소스코드](https://github.com/geun9716/KoreanNewsChronicle)
 - [서비스 소스코드](https://github.com/SSU-SOFT/In-Times)
-
+- [서비스](http://roothyo.com)
 
 2021.02.04~2021.02.06) <a href="https://www.notion.so/ARTravel-GPS-AR-SNS-b7eca04e18d14b1b9c7d5cbbf1c47f74">SW중심대학 해커톤 </a> (ARTravel)
 - React Native, Node.js Express를 기반으로 만든 AR SNS
@@ -62,7 +62,6 @@
 2021.07.29~2021.08.01) 2021 SG해커톤 (MoA)
 - React.js 와 Node.js Express를 기반으로 만든 웹앱
 - [소스코드](https://github.com/TeamMOA/MOA)
-- 현재 roothyo.com으로 배포중
 
 블로그
 ***
