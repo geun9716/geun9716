@@ -62,6 +62,11 @@ AI기술을 활용하는 백엔드 엔지니어가 되고 싶습니다.
 - React.js 와 Node.js Express를 기반으로 만든 웹앱
 - [소스코드](https://github.com/TeamMOA/MOA)
 
+
+2021.10.28 ~ 2021.12.03) 디지털 산업혁신 빅데이터 플랫폼 경진대회
+- 제조업 산업 분석 (지역성과 탄소 중립 정책을 중심으로 본 제조업의 디지털화)
+- [소스코드](https://github.com/ESSUEESSUE/DXD)
+
 블로그
 ***
 Tistory Blog : [roothyo.tistory.com](https://roothyo.tistory.com) </br> 
