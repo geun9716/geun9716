@@ -13,7 +13,7 @@ AI기술을 활용하는 백엔드 엔지니어가 되고 싶습니다.
 ## 제가 가진 기술은요 
 ***
 - 언어 : C, Java, Python, JavaScript, TypeScript(ing...)
-- 기술 : Node.js, React Native 
+- 기술 : Node.js, React Native, React
 - MySQL, MariaDB등 RDBMS 경험
 - AWS 서버 배포 경험
 - Alcatel등의 네트워크 장비 수리 및 관리
