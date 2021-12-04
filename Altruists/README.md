@@ -1,7 +1,3 @@
----
-title : Altruists App
----
-
 2020.07~2020.11) 이타주의자들 리뉴얼 앱
 ![이타주의자들](/img/Altruists.jpg?style=centerme"이타주의자들")
 - UNY-ICT(IT모임)에 소속되어 이타주의자들이라는 커뮤니티 및 멘토 질문 서비스의 활용을 위해 리뉴얼해서 앱으로 출시.
