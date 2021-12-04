@@ -26,7 +26,7 @@ AI기술을 활용하는 백엔드 엔지니어가 되고 싶습니다.
 - 수상내역 : 학과내에서 최우수상을 수상
 - 제10-1933787호 "테이블 및 그의 자동 수평 조정방법" 특허를 내었음.
 
-2017.09~2017.12) <a href="https://geun9716.github.io/about/Ictus.html">영어단어학습 게임</a> (ICTUS)
+2017.09~2017.12) <a href="./Ictus">영어단어학습 게임</a> (ICTUS)
 - [소스코드](https://github.com/geun9716/Ictus)
 
 2018.02~2019.10) 군 복무(네트워크 인프라 업무 수행)
@@ -34,21 +34,21 @@ AI기술을 활용하는 백엔드 엔지니어가 되고 싶습니다.
 - 특수 CCTV, IP Camera등의 장비 수리 및 관리
 - 서버실 관리 및 전산 장비 관리 등
 
-2020.03~2020.06) <a href="https://geun9716.github.io/about/Pinsert.html">AR 기반의 소셜네트워크서비스</a> (Pinsesrt)
+2020.03~2020.06) <a href="./Pinsert">AR 기반의 소셜네트워크서비스</a> (Pinsesrt)
 - 수상내역 : 2020년도 IT대학 소프트웨어학부 소프트웨어 공모전 (은상), 2020.10.26
 - [소스코드](https://github.com/geun9716/Pintest)
 - [구동영상](https://www.youtube.com/watch?v=DsixYbYGy-k)
 
-2020.08~2020.09) <a href="https://geun9716.github.io/about/BigBrothers.html">온라인 시험 부정행위 방지 공모전</a> (BigBrothers)
+2020.08~2020.09) <a href="./BigBrothers">온라인 시험 부정행위 방지 공모전</a> (BigBrothers)
 - 수상내역 : 2020년도 온라인시험 부정행위방지(ROPE) SW개발 공모전 (대상), 2020.10.26
 - [소스코드](https://github.com/geun9716/rope_openvidu)
 
-2020.07~2020.11) <a href="https://geun9716.github.io/about/Altruists.html">이타주의자들 리뉴얼 앱</a> (Altruists App)
+2020.07~2020.11) <a href="./Altruists">이타주의자들 리뉴얼 앱</a> (Altruists App)
 
 2020.09~2021.06) 스파르탄SW 복수/융합전공 튜터링
 - React.js, Node.js Express, MariaDB 외 웹 서비스에 대해 후배들에게 멘토링을 진행.
 
-2020.10~2021.06) <a href="https://geun9716.github.io/about/KNC.html">뉴스 빅데이터 타임라인 서비스</a> (KoreanNewsChronicle)
+2020.10~2021.06) <a href="./KNC">뉴스 빅데이터 타임라인 서비스</a> (KoreanNewsChronicle)
 - [사건탐지 소스코드](https://github.com/geun9716/KoreanNewsChronicle)
 - [서비스 소스코드](https://github.com/SSU-SOFT/In-Times)
 - [서비스](http://roothyo.com)
