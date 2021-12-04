@@ -22,7 +22,7 @@ AI기술을 활용하는 백엔드 엔지니어가 되고 싶습니다.
 ***
 
 
-2016.09~2016.12 ) <a href="https://geun9716.github.io/about/AbsoluteTable.html">자동으로 수평을 맞춰주는 테이블</a> (ABSOLUTE TABLE)
+2016.09~2016.12 ) <a href="./AbsoluteTable">자동으로 수평을 맞춰주는 테이블</a> (ABSOLUTE TABLE)
 - 수상내역 : 학과내에서 최우수상을 수상
 - 제10-1933787호 "테이블 및 그의 자동 수평 조정방법" 특허를 내었음.
 
