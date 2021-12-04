@@ -7,4 +7,4 @@
 - [소스코드](https://github.com/geun9716/Pintest)
 - [구동영상](https://www.youtube.com/watch?v=DsixYbYGy-k)
 - 수상내역 : 2020년도 IT대학 소프트웨어학부 소프트웨어 공모전 (은상), 2020.10.26
-![소프트웨어공모전은상](/img/Pinsert.jpg)
+![소프트웨어공모전은상](./img/Pinsert.jpg)
