@@ -71,7 +71,7 @@ AI기술을 활용하는 Back-End 엔지니어가 되고 싶습니다. 문제를
 
 2021.11.19 ~ 2021.12.19) 뉴욕 택시 데이터를 이용한 '공항버스 사업 확대'
 - R Hadoop을 활용하여 주로 공항을 이용한 택시 데이터를 통해 K-means 알고리즘으로 정류장을 찾고, 회귀분석을 통해 요금을 예측
-- [소스코드](https://github.com/SSU-SOFT/NYTaxiBus)
+- [소스코드](https://github.com/SSU-SOFT/NYTaxiBUS)
 
 블로그
 ***
