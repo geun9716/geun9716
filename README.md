@@ -13,7 +13,7 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 -->
 ## 제가 가진 기술은요 
 ***
-- 언어 : C, Java, Python, JavaScript, TypeScript(ing...)
+- 언어 : Python, JavaScript, TypeScript, C, Java
 - 기술 : Node.js, React Native, React
 - MySQL, MariaDB등 RDBMS 경험
 - AWS 서버 배포 경험
