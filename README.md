@@ -76,7 +76,7 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 블로그
 ***
 Tistory Blog : [roothyo.tistory.com](https://roothyo.tistory.com) </br> 
-github Page : [geun9716.github.io](https://geun9716.github.io)
+<!--github Page : [geun9716.github.io](https://geun9716.github.io)-->
 <!--
 **geun9716/geun9716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
