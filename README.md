@@ -71,7 +71,7 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 - [소스코드](https://github.com/SSU-SOFT/NYTaxiBUS)
 
 2021.03.25) KoreanNewsCrawler 오픈소스 기여
-- 날짜 지정 기능 추가
+- [#26 날짜 지정 기능 추가] (https://github.com/lumyjuwon/KoreaNewsCrawler/pull/26)
 - [소스코드](https://github.com/lumyjuwon/KoreaNewsCrawler)
 
 블로그
