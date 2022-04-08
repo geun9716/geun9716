@@ -22,7 +22,6 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 ## 저는 이런걸 해왔어요
 ***
 
-
 2016.09~2016.12 ) <a href="./AbsoluteTable">자동으로 수평을 맞춰주는 테이블</a> (ABSOLUTE TABLE)
 - 수상내역 : 학과내에서 최우수상을 수상
 - 제10-1933787호 "테이블 및 그의 자동 수평 조정방법" 특허를 내었음.
@@ -58,11 +57,9 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 - React Native, Node.js Express를 기반으로 만든 AR SNS
 - [소스코드](https://github.com/geun9716/ARTravel)
 
-
 2021.07.29~2021.08.01) 2021 SG해커톤 (MoA)
 - React.js 와 Node.js Express를 기반으로 만든 웹앱
 - [소스코드](https://github.com/TeamMOA/MOA)
-
 
 2021.10.28 ~ 2021.12.03) 디지털 산업혁신 빅데이터 플랫폼 경진대회
 - 제조업 산업 분석 (지역성과 탄소 중립 정책을 중심으로 본 제조업의 디지털화)
@@ -72,6 +69,10 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 2021.11.19 ~ 2021.12.19) <a href="https://quartz-riverbed-7f1.notion.site/badaa0f393414c8a94a29c7be1c33bd1"> 뉴욕 택시 데이터를 이용한 '공항버스 사업 확대' </a>
 - R Hadoop을 활용하여 주로 공항을 이용한 택시 데이터를 통해 K-means 알고리즘으로 정류장을 찾고, 회귀분석을 통해 요금을 예측
 - [소스코드](https://github.com/SSU-SOFT/NYTaxiBUS)
+
+2021.03.25) KoreanNewsCrawler 오픈소스 기여
+- 날짜 지정 기능 추가
+- [소스코드](https://github.com/lumyjuwon/KoreaNewsCrawler)
 
 블로그
 ***
