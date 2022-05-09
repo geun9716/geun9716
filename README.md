@@ -51,7 +51,7 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 2020.10~2021.06) <a href="./KNC">뉴스 빅데이터 타임라인 서비스</a> (KoreanNewsChronicle)
 - [사건탐지 소스코드](https://github.com/geun9716/KoreanNewsChronicle)
 - [서비스 소스코드](https://github.com/SSU-SOFT/In-Times)
-- [서비스](http://roothyo.com)
+- [서비스](http://roothyo.com) - 중단
 
 2021.02.04~2021.02.06) <a href="https://www.notion.so/ARTravel-GPS-AR-SNS-b7eca04e18d14b1b9c7d5cbbf1c47f74">SW중심대학 해커톤 </a> (ARTravel)
 - React Native, Node.js Express를 기반으로 만든 AR SNS
