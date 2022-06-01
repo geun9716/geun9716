@@ -5,5 +5,6 @@
 - 사용 언어 : node.js , openvidu(WebRTC), react.js
 - 팀원과 Front와 Back을 나누어 협업하고, git의 활용을 본격적으로 해보면서 많은 것을 배울 수 있었다. 하나의 서비스를 제대로 구현해내기 위해서는 많은 지식이 필요한 것을 알 수 있었다. 
 - [소스코드](https://github.com/geun9716/rope_openvidu)
+- [시연영상](https://youtu.be/hovZIJglQks)
 - 수상내역 : 2020년도 온라인시험 부정행위방지(ROPE) SW개발 공모전 (대상), 2020.10.26
 ![ROPE공모전](./img/BigBrothers.jpg)
