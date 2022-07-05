@@ -81,7 +81,7 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 
 2021.05.30 ~ 2021.06.30) LG전자 BS본부 인턴쉽
 - 제품 리뷰 Youtube 댓글 분석 솔루션 개발
-- React.js, Flask, Selenium, LSTM, koBERT를 통해 생성.
+- React.js, Flask, Selenium, LSTM -> koBERT를 이용한 감성분석모델 생성.
 
 
 블로그
