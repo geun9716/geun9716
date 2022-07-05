@@ -75,11 +75,11 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 - R Hadoop을 활용하여 주로 공항을 이용한 택시 데이터를 통해 K-means 알고리즘으로 정류장을 찾고, 회귀분석을 통해 요금을 예측
 - [소스코드](https://github.com/SSU-SOFT/NYTaxiBUS)
 
-2021.03.25) KoreanNewsCrawler 오픈소스 기여
+2022.03.25) KoreanNewsCrawler 오픈소스 기여
 - [#26 날짜 지정 기능 추가] (https://github.com/lumyjuwon/KoreaNewsCrawler/pull/26)
 - [소스코드](https://github.com/lumyjuwon/KoreaNewsCrawler)
 
-2021.05.30 ~ 2021.06.30) LG전자 BS본부 인턴쉽
+2022.05.30 ~ 2022.06.30) LG전자 BS본부 인턴쉽
 - 제품 리뷰 Youtube 댓글 분석 솔루션 개발
 - React.js, Flask, Selenium, LSTM -> koBERT를 이용한 감성분석모델 생성.
 
