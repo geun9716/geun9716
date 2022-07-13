@@ -39,11 +39,11 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 - [소스코드](https://github.com/geun9716/Pintest)
 - [구동영상](https://www.youtube.com/watch?v=DsixYbYGy-k)
 
+2020.07~2020.11) <a href="./Altruists">이타주의자들 리뉴얼 앱</a> (Altruists App)
+
 2020.08~2020.09) <a href="./BigBrothers">온라인 시험 부정행위 방지 공모전</a> (BigBrothers)
 - 수상내역 : 2020년도 온라인시험 부정행위방지(ROPE) SW개발 공모전 (대상), 2020.10.26
 - [소스코드](https://github.com/geun9716/rope_openvidu)
-
-2020.07~2020.11) <a href="./Altruists">이타주의자들 리뉴얼 앱</a> (Altruists App)
 
 2020.09~2021.06) 스파르탄SW 복수/융합전공 튜터링
 - React.js, Node.js Express, MariaDB 외 웹 서비스에 대해 후배들에게 멘토링을 진행.
