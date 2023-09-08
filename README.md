@@ -14,10 +14,8 @@ AI기술을 활용하여 세상에 영향력을 주는 소프트웨어 엔지니
 ## 제가 가진 기술은요 
 ***
 - 언어 : Python, JavaScript, TypeScript, C++
-- 기술 : Node.js, React Native, React
+- 기술 : Node.js, React.js, React Native, 
 - MySQL, MariaDB등 RDBMS 경험
-- AWS 서버 배포 경험
-- Alcatel등의 네트워크 장비 수리 및 관리
 
 ## 저는 이런걸 해왔어요
 ***
